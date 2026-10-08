@@ -42,6 +42,4 @@ Then open `index.html` in your browser.
 
 MIT License
 
----
 
-Made with ✨ and questionable ideas by GeekSimps.
